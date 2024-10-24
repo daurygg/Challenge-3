@@ -57,8 +57,8 @@
     font-size: 25px;
 }
 
-.text h5 {
-    color: var(--color-green);
+p:first-of-type {
+    color: var(--color-green)!important;
     font-size: 14px;
     font-family: "Inter",sans-serif;
     font-weight: 700;
